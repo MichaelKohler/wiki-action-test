@@ -1,0 +1,12 @@
+{
+  "name": "wiki-action-test",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "fetch": "node fetch.js"
+  },
+  "author": "Michael Kohler",
+  "dependencies": {
+    "node-fetch": "^3.3.2"
+  }
+}
