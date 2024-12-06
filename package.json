@@ -5,8 +5,5 @@
   "scripts": {
     "fetch": "node fetch.js"
   },
-  "author": "Michael Kohler",
-  "dependencies": {
-    "node-fetch": "^3.3.2"
-  }
+  "author": "Michael Kohler"
 }
